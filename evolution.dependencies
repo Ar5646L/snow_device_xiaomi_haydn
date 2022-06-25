@@ -22,5 +22,11 @@
    "target_path": "prebuilts/clang/host/linux-x86/clang-prelude",
    "branch"     : "master",
    "remote"     : "gitlab"
+  },
+  {
+   "repository"  : "vendor_xiaomi_haydn-firmware",
+   "target_path" : "vendor/xiaomi/haydn-firmware",
+   "remote"      : "pixel-devices-blobs",
+   "branch"      : "twelve"
   }
  ]
