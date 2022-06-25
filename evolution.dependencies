@@ -9,13 +9,13 @@
     "repository": "vendor_xiaomi_haydn-miuicamera",
     "target_path": "vendor/xiaomi/haydn-miuicamera",
     "remote": "pixel-devices-blobs",
-    "branch": "twelve"
+    "branch": "twelve-wip"
   },
   {
     "repository": "vendor_xiaomi_haydn",
     "target_path": "vendor/xiaomi/haydn",
-    "remote": "Ar5646L",
-    "branch": "snow"
+    "remote": ""pixel-devices-blobs,
+    "branch": "twelve"
   },
   {
    "repository" : "jjpprrrr/prelude-clang",
